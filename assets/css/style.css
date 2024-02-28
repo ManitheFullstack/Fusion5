@@ -1,0 +1,134 @@
+/* carrer start */
+.carrer-banner {
+      background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.40948879551820727) 0%),url("/assets/images/manager-networking.jpg");
+      background-size: cover;
+      height: 50vh;
+      background-position: 0px -191px;
+    }
+    .banner-heading {
+        margin-top: 38px;
+        color: #fff;
+    }
+    h6.career-card-text {
+        font-size: 22px;
+        color:#000;
+    }
+    .banner-card {
+        margin-left: 410px;
+        margin-top: 18px;
+        color: #fff;
+    }
+    a {
+        color: #fff !important;
+        text-decoration: underline;
+    }
+    h6.career-card-text {
+        color: #000 !important;
+    }
+    .java-card{
+        border-radius: 5px;
+        border-width: 1px;
+        padding:40px;
+        margin-top: 110px;
+        border: 1px solid #00000078;
+    }
+    a.abt-bread {
+        text-decoration: none;
+    }
+    li.bread-list {
+        margin: 5px;
+    }
+    h2.abt-head3 {
+        font-size: 50px;
+    }
+
+
+    ul.bread-crumbs {
+        display: inline-flex;
+        list-style: none;
+        margin-left: -3%;
+      }
+      a {
+        text-decoration: none;
+      }
+      .abt_banner2{
+        background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.6727941176470589) 0%),url("/assets/images/manager-networking.jpg");
+        height: 50vh;
+        background-size: cover;
+        background-position: 0% 50%;
+      }
+      .abt-head2 {
+        margin-top: 8%;
+        color: #fff;
+      }
+      a.abt-bread {
+        color: #fff;
+      }
+      a.abt-bread.arr {
+        position: relative;
+      }
+
+      button.btn.btn-primary {
+        margin: 5px;
+        margin-left: 351px;
+        background-color: #f36420;
+    }
+      /* career end */
+    /*----chooseus starts---*/
+.choose{
+    background:linear-gradient(0deg, rgba(247,127,29,1) 0%, rgba(247,127,29,0.6195728291316527) 0%), url('/assets/images/choose/whychooseus.jpg') no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    padding: 50px;
+}
+.icon_img {
+    width: 50%;
+    transform: translateX(50%);
+}
+h2.head_choose {
+    text-align: center;
+    font-size: 22px;
+}
+.card.chooseus {
+    padding: 35px;
+    height: 60vh;
+    background: #ffffffb8 ! IMPORTANT;
+    transition: all 0.8s;
+}
+.card.chooseus:hover {
+    color: #fff;
+    background:linear-gradient(0deg, rgba(247,127,29,1) 0%, rgba(247,127,29,0.6195728291316527) 0%) !important;
+    border: 1px solid #ffffffb8 ! IMPORTANT;
+}
+p.choose_para {
+    font-weight: 400;
+}
+
+/*----chooseus Ends---*/
+/*-----footer- starts-*/
+a.list-link {
+    text-decoration: none;
+    color: #000;
+    margin: 0 0 0px 50px;
+
+}
+ul.list-group {
+    list-style: none;
+}
+li.list-items {
+    margin: 0 0px 10px 0;
+}
+section.footer {
+    background: #6f6d6d6e;
+    padding: 5%;
+}
+.footimg {
+    width: 40% !IMPORTANT;
+}
+h3.foot_head {
+    color: #fa5f00;
+}
+/*-----footer--ENDs*/
+
+    
