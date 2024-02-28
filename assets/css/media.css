@@ -122,3 +122,155 @@
     }
     
 }
+@media only screen and (min-width:320px){
+    .accordion-body {
+        height: 32vh;
+    }
+        .contact-btn{
+           float: right;
+        }
+        button.btn2 {
+            margin-top: 79% ;
+        }
+        button.btn3 {
+            margin-top: 40% ;
+        }
+        button.btn5 {
+            margin-top: 38% ;
+        }
+        button.btn6 {
+            margin-top: 37% ;
+        }
+    }
+    @media only screen and (min-width:375px) {
+        button.btn1 {
+            margin-top: 34%;
+        }
+        button.btn2 {
+            margin-top: 78%;
+        }
+        button.btn3 {
+            margin-top: 57%;
+        }
+       
+        button.btn4 {
+            margin-top: 34%;
+        }
+        button.btn5 {
+            margin-top: 55%;
+        }
+        button.btn6 {
+            margin-top: 55%;
+        }
+    
+    }
+    @media only screen and (min-width:425px) {
+        button.btn1 {
+            margin-top: 34%;
+        }
+        button.btn2 {
+            margin-top: 78%;
+        }
+        button.btn3 {
+            margin-top: 57%;
+        }
+        .contact-btn {
+           
+            margin-top: 1%;
+        }
+        button.btn4 {
+            margin-top: 34%;
+        }
+        button.btn5 {
+            margin-top: 55%;
+        }
+        button.btn6 {
+            margin-top: 55%;
+        }
+    
+    }
+    @media only screen and (min-width:768px){
+        .accordion-body {
+            height: 45vh;
+        }
+        .contact-btn {
+            float: right;
+        }
+        button.btn1 {
+            margin-top: -20%;
+        }
+        button.btn2 {
+            margin-top: 90%;
+        }
+        button.btn3 {
+            margin-top: 44%;
+        }
+        
+        button.btn4 {
+            margin-top: -25%;
+        }
+        button.btn5 {
+            margin-top: 83%;
+        }
+        button.btn6 {
+            margin-top: 82%;
+        }
+    }
+    @media only screen and (min-width:1024px){
+        .accordion-body {
+            height: 38vh;
+        }
+        .contact-btn {
+            float: right;
+        }
+        button.btn1 {
+            margin-top: 25%;
+        }
+        button.btn2 {
+            margin-top: 115%;
+        }
+        button.btn3 {
+            margin-top: 88%;
+        }
+        
+        button.btn4 {
+            margin-top: 25%;
+        }
+        button.btn5 {
+            margin-top: 83%;
+        }
+        button.btn6 {
+            margin-top: 70%;
+        }
+    }
+    @media only screen and (min-width:1445px){
+        .accordion-body {
+            height: 38vh;
+        }
+        .contact-btn {
+            float: right;
+        }
+        button.btn1 {
+            margin-top: 65%;
+        }
+        button.btn2 {
+            margin-top: 126%;
+        }
+        button.btn3 {
+            margin-top: 92%;
+        }
+        
+        button.btn4 {
+            margin-top: 65%;
+        }
+        button.btn5 {
+            margin-top: 108%;
+        }
+        button.btn6 {
+            margin-top: 110%;
+        }
+    }
+    
+    /* accordion starts*/ 
+    
+    

@@ -526,3 +526,38 @@ background: #e1590699;
 }
 
 /* about ends */
+* careers in java starts */
+.career-java{
+  background-color:#ef9e09;
+}
+
+a.career-bread {
+color: #fff;
+font-size: 13px;
+}
+button.accordion-button.collapsed:focus{
+  -webkit-box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 12px 1px rgba(0,0,0,0.75);
+}
+/* careers in java ends */
+
+/* accordion starts */
+
+
+.accordion-body {
+  height: 33vh;
+}
+p.accor-para {
+  font-size: 84%;
+}
+.btn-all{
+  background: #fa5f00;
+  border: 1px solid #fa5f00;
+  font-weight: 600;
+  color: #fff;
+  border-radius: 7px;
+
+}
+
+/* accordion ends */
